@@ -5,6 +5,9 @@
 
 **StackUnderflow** is a Q&A platform designed to allow users to ask questions, provide answers, and engage with the community. Built with PHP, Tailwind CSS, and JavaScript, StackUnderflow offers a clean and modern design inspired by StackOverflow, making it a great solution for communities to share knowledge and solve problems.
 
+This project created for university course Finished at: **1/5/2024**
+
+
 ## Features
 
 - **User Authentication**: Users can register, log in, and manage their profiles.
